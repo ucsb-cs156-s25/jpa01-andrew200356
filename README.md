@@ -59,6 +59,9 @@ below.
   * Adding jacoco as a plugin to measure test 
     case coverage
   * Adding pitest for mutation test coverage.
- 
 
+here is a link to the repo:
+<https://github.com/ucsb-cs156-s25/jpa01-andrew200356.git>
 
+here is a link to the deployed app:
+<https://jpa01-andrew.dokku-02.cs.ucsb.edu/>
